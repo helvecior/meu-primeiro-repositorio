@@ -1,9 +1,18 @@
-# No Visual Studio Code (VS Code), os atalhos que você procura provavelmente são estes:
-
+# No Visual Studio Code (VS Code), os atalhos que você procura provavelmente são estes
 
 | Atalho | Função |
-|---|---|
+| --- | --- |
 | Ctrl + D | Seleciona a próxima ocorrência da palavra selecionada, abaixo da atual. |
 | Ctrl + K, depois Ctrl + D | Pula para a próxima ocorrência sem adicioná-la à seleção múltipla. |
 | Ctrl + F3 | Vai para a próxima ocorrência da palavra, sem abrir o menu de pesquisa. |
 | Ctrl + Shift + F3 | Vai para a ocorrência anterior, acima da atual, sem abrir o menu de pesquisa. |
+
+**eu mudei os shortcuts do meu vscode
+
+| Atalho | Função |
+| --- | --- |
+| Ctrl + D | Seleciona a próxima ocorrência da palavra selecionada, abaixo da atual. |
+| Ctrl + K, depois Ctrl + D | Pula para a próxima ocorrência sem adicioná-la à seleção múltipla. |
+| Ctrl + alt + z | Vai para a próxima ocorrência da palavra, sem abrir o menu de pesquisa. |
+| Ctrl + alt + a | Vai para a ocorrência anterior, acima da atual, sem abrir o menu de pesquisa. |
+| Ctrl + shift + D | Seleciona todas as ocorrências da palavra na caixa de seleção atual. |
